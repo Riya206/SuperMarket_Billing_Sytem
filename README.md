@@ -58,6 +58,3 @@ Apache Tomcat Server
 <img width="641" height="645" alt="Screenshot 2026-02-13 121342" src="https://github.com/user-attachments/assets/73c5f31f-6781-494e-acbb-c2505ab62c94" />
 
 
-HTML & CSS
-
-Project Structure
